@@ -33,3 +33,10 @@
 -   JQuery
 -   D3
 -   React
+
+## Git
+
+```
+git config --global user.name "你的github帳號"
+git config --global user.email "你的github註冊的email"
+```
