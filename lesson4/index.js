@@ -85,3 +85,7 @@ data.forEach((row, i) => {
 table.appendChild(thead);
 table.appendChild(tbody);
 root_div.appendChild(table);
+
+column_name_array.forEach((d, i) => {
+    console.log(d, i);
+});
